@@ -1,0 +1,6 @@
+projectKey=codtech-task-4
+serverUrl=http://13.50.106.55:9000
+serverVersion=25.6.0.109173
+dashboardUrl=http://13.50.106.55:9000/dashboard?id=codtech-task-4
+ceTaskId=5e764fd7-ebca-4545-80b2-a1678360fd7b
+ceTaskUrl=http://13.50.106.55:9000/api/ce/task?id=5e764fd7-ebca-4545-80b2-a1678360fd7b
